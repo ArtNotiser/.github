@@ -1,6 +1,6 @@
-## ArtNotiser - din kryssarhjälp i fågel-Sverige
+## ArtNotiser - hjälper dig kryssa fåglar i Sverige
 
-
+ArtNotiser informerar dig om nya års- och livskryss för de landskap, kommuner eller lokaler som du vill bevaka. Du slipper gå in på Artportalen varje timme, istället får du information om nya kryss via epost eller i appen. 
 
 <!--
 
