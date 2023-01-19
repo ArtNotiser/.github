@@ -10,7 +10,7 @@ ArtNotiser är uppdelad i fyra repositories:
 * [artnotiser-backend](https://github.com/ArtNotiser/artnotiser-backend)
 * [artnotiser-mobile](https://github.com/ArtNotiser/artnotiser-mobile)
 * [artnotiser-IaC](https://github.com/ArtNotiser/artnotiser-IaC)
-* [artnotiser-doc](https://github.com/ArtNotiser/artnotiser-doc)
+* [artnotiser-docs](https://github.com/ArtNotiser/artnotiser-docs)
 
 `artnotiser-backend` är motorn bakom ArtNotiser, den läser obsar från Artportalen, jämför med användarnas kryss och skickar notiser till användarna.
 
