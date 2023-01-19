@@ -2,7 +2,7 @@
 
 ArtNotiser hjälper dig hitta nya års- och livskryss för de landskap, kommuner eller lokaler som du vill bevaka. Du slipper gå in på Artportalen hela tiden för att söka fram det du vill ha, istället får du information om nya kryss pushade till dig via epost eller i appen. Läs mer om ArtNotiser i vår [Användarmanual](https://github.com/ArtNotiser/artnotiser-docs).
 
-Vill du ställa frågor eller diskutera så gör du det på [ArtNotiser Diskussioner](https://github.com/orgs/ArtNotiser/discussions).
+Vill du ställa frågor eller diskutera så gör du det på [ArtNotiser Diskussioner](https://github.com/orgs/ArtNotiser/discussions). Du kan läsa utan att vara inloggad, men för att skriva inlägg behöver du [skapa ett konto på GitHub](https://github.com/signup?return_to=https%3A%2F%2Fgithub.com%2Forgs%2FArtNotiser).
 
 ## För utvecklare
 
